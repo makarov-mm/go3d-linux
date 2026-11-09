@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=3D Go
+Name[ru]=Го 3D
+Comment=The game of Go against the computer or a friend
+Comment[ru]=Игра го против компьютера или друга
+Exec=go3d
+Icon=go3d
+Terminal=false
+Categories=Game;BoardGame;
+Keywords=go;weiqi;baduk;igo;board game;
+Keywords[ru]=го;вэйци;бадук;настольная игра;
+StartupWMClass=go3d
